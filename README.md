@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Big Data and Machine Learning.
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me via LinkedIn (www.linkedin.com/in/jaime-isaac-dominguez-najera), Kaggle  or here on Github
 
 <!---
 Isaacdn1299/Isaacdn1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
